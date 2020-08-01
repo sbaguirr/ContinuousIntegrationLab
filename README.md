@@ -1,2 +1,0 @@
-# ContinuousIntegrationLab
- Continuous Integration Lab
